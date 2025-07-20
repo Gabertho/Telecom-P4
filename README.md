@@ -86,7 +86,8 @@ No estado atual do projeto (com a ressonância ajustada, mas ainda sem o casamen
 * Para S11 < -3 dB, a banda é de **12.6 MHz**.
 * Para S11 < -2 dB, a banda é de **18.7 MHz**.
 
-![Resultado da Simulação de S11](fig\imageitem1.png)
+![](fig\imageitem1.png)
+
 *Figura: Largura de banda da antena em diferentes níveis de S11, com ressonância em 145.8 MHz.*
 
 * **Comparação com uma Antena Dipolo:** Uma antena Yagi-Uda, por sua concepção, é uma antena de banda mais **estreita** do que uma dipolo simples. A adição de elementos parasitas (o refletor e o diretor), que são sintonizados para ressoar em uma frequência específica, aumenta a seletividade da antena. Esse fenômeno concentra a energia para obter maior ganho e diretividade, mas como contrapartida, reduz a faixa de frequências em que a antena opera de forma otimizada. A dipolo, por não ter esses elementos, possui uma resposta de frequência mais ampla.
