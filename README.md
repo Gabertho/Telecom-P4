@@ -86,7 +86,7 @@ No estado atual do projeto (com a ressonância ajustada, mas ainda sem o casamen
 * Para S11 < -3 dB, a banda é de **12.6 MHz**.
 * Para S11 < -2 dB, a banda é de **18.7 MHz**.
 
-![](fig\imageitem1.png)
+![](fig/imageitem1.png)
 
 *Figura: Largura de banda da antena em diferentes níveis de S11, com ressonância em 145.8 MHz.*
 
